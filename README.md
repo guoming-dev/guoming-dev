@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Guo Ming! 
 
-<!--
-**guoming-dev/guoming-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm on a **365-day Computer Science ultralearning journey** to master **Python, Linux, and fundamental Computer Science concepts** through self-directed study.
 
-Here are some ideas to get you started:
+## 🎯 My Ultralearning Goals
+- 🖥️ **Master Python & Linux**
+- 🔍 **Deepen knowledge in Computer Science & Security**
+- ✍️ **Document my journey daily through blogs & projects**
+- 🌱 **Explore freelancing opportunities in the future**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack (Current Focus)
+- **Programming:** Python (CS50P, building projects)
+- **Tools:** Git, GitHub, VS Code
+- **Operating Systems:** Linux (basic commands), Windows
+
+📌 *Planning to explore Cloud & DevOps in the future!*
+
+## 📚 Learning in Public
+🔗 **[Medium Blog](https://medium.com/@gmlearnstech)** – Sharing insights from my ultralearning journey  
+🗂️ **[GitHub Projects](https://github.com/guoming-dev?tab=repositories)** – Code repositories and automation scripts  
+
+## 🌱 Recent Projects
+- 🏗️ *Currently building foundational Python projects... Stay tuned!*
+
+## 💬 Let's Connect
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/guo-ming-loh/)**
+- 📧 **Email:** [gm_learning_tech@outlook.com](mailto:gm_learning_tech@outlook.com)
