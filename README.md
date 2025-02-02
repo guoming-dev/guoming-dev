@@ -20,6 +20,7 @@
 🗂️ **[GitHub Projects](https://github.com/guoming-dev?tab=repositories)** – Code repositories and automation scripts  
 
 ## 🌱 Recent Projects
+- 📆 **[Day Calculator](https://github.com/guoming-dev/day-calculator)** - A Python automation tool that calculates the day number of the year from any given date, helping track progress in long-term projects like my 365-day ultralearning project. 🚀
 - 🏗️ *Currently building foundational Python projects... Stay tuned!*
 
 ## 💬 Let's Connect
