@@ -26,3 +26,7 @@
 ## 💬 Let's Connect
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/guo-ming-loh/)**
 - 📧 **Email:** [gm_learning_tech@outlook.com](mailto:gm_learning_tech@outlook.com)
+
+## ☕ Support My Work
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/gmlearnstech)
